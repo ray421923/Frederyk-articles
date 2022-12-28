@@ -1,0 +1,71 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * aktiv-grotesk:
+ *   - http://typekit.com/eulas/000000000000000077359d4f
+ *   - http://typekit.com/eulas/000000000000000077359d51
+ *   - http://typekit.com/eulas/000000000000000077359d55
+ *   - http://typekit.com/eulas/000000000000000077359d58
+ *   - http://typekit.com/eulas/000000000000000077359d5a
+ *   - http://typekit.com/eulas/000000000000000077359d5c
+ *   - http://typekit.com/eulas/000000000000000077359d61
+ *   - http://typekit.com/eulas/000000000000000077359d62
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-06-10 17:57:40 UTC"}*/
+
+@import url("../p.typekit.net/p1aae.css?s=1&amp;k=svv7knm&amp;ht=tk&amp;f=14032.14033.14034.14035.14036.14037.21510.21511&amp;a=113370729&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/ab3e12/000000000000000077359d4f/30/l31db?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n4&amp;v=3") format("woff2"),url("af/ab3e12/000000000000000077359d4f/30/d31db?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n4&amp;v=3") format("woff"),url("af/ab3e12/000000000000000077359d4f/30/a31db?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/951aca/000000000000000077359d51/30/l4fcb?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i4&amp;v=3") format("woff2"),url("af/951aca/000000000000000077359d51/30/d4fcb?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i4&amp;v=3") format("woff"),url("af/951aca/000000000000000077359d51/30/a4fcb?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i4&amp;v=3") format("opentype");
+font-display:swap;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/a798a9/000000000000000077359d55/30/l003a?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n7&amp;v=3") format("woff2"),url("af/a798a9/000000000000000077359d55/30/d003a?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n7&amp;v=3") format("woff"),url("af/a798a9/000000000000000077359d55/30/a003a?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/8e3d9f/000000000000000077359d58/30/l4fb2?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i7&amp;v=3") format("woff2"),url("af/8e3d9f/000000000000000077359d58/30/d4fb2?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i7&amp;v=3") format("woff"),url("af/8e3d9f/000000000000000077359d58/30/a4fb2?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:swap;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/63d81f/000000000000000077359d5a/30/l27e9?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n3&amp;v=3") format("woff2"),url("af/63d81f/000000000000000077359d5a/30/d27e9?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n3&amp;v=3") format("woff"),url("af/63d81f/000000000000000077359d5a/30/a27e9?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/e4f1f2/000000000000000077359d5c/30/ld572?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i3&amp;v=3") format("woff2"),url("af/e4f1f2/000000000000000077359d5c/30/dd572?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i3&amp;v=3") format("woff"),url("af/e4f1f2/000000000000000077359d5c/30/ad572?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i3&amp;v=3") format("opentype");
+font-display:swap;font-style:italic;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/cbf647/000000000000000077359d61/30/ld14f?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n8&amp;v=3") format("woff2"),url("af/cbf647/000000000000000077359d61/30/dd14f?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n8&amp;v=3") format("woff"),url("af/cbf647/000000000000000077359d61/30/ad14f?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=n8&amp;v=3") format("opentype");
+font-display:swap;font-style:normal;font-weight:800;font-stretch:normal;
+}
+
+@font-face {
+font-family:"aktiv-grotesk";
+src:url("af/af45c0/000000000000000077359d62/30/l37a4?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i8&amp;v=3") format("woff2"),url("af/af45c0/000000000000000077359d62/30/d37a4?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i8&amp;v=3") format("woff"),url("af/af45c0/000000000000000077359d62/30/a37a4?primer=c4e4cd189e2a02025a5d541854cf6393365473590ae827c14608e929984783f1&amp;fvd=i8&amp;v=3") format("opentype");
+font-display:swap;font-style:italic;font-weight:800;font-stretch:normal;
+}
+
+.tk-aktiv-grotesk { font-family: "aktiv-grotesk",sans-serif; }
